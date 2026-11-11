@@ -1,0 +1,8 @@
+name: FroggyHunter
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  froggy:
+    description: Spawn the hungry Froggy hunter.
+    usage: /froggy spawn
